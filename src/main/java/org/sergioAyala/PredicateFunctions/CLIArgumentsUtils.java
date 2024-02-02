@@ -1,4 +1,6 @@
-package org.sergioAyala;
+package org.sergioAyala.PredicateFunctions;
+
+import org.sergioAyala.PredicateFunctions.CLIArguments;
 
 import java.util.function.Consumer;
 import java.util.function.Supplier;

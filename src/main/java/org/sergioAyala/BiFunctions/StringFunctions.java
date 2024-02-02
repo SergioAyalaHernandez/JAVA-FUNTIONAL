@@ -1,4 +1,4 @@
-package org.sergioAyala;
+package org.sergioAyala.BiFunctions;
 
 import java.util.List;
 import java.util.function.BiFunction;

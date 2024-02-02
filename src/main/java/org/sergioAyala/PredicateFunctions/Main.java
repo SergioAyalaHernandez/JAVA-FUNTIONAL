@@ -1,4 +1,4 @@
-package org.sergioAyala;
+package org.sergioAyala.PredicateFunctions;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

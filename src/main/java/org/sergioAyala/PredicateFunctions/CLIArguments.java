@@ -1,4 +1,4 @@
-package org.sergioAyala;
+package org.sergioAyala.PredicateFunctions;
 
 public class CLIArguments {
     private boolean isHelp;
